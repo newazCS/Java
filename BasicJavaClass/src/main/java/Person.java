@@ -1,16 +1,17 @@
 import business.Company;
 
 public class Person {
-    private String firstName;
-    private int age;
-    private long id;
-    private char middleInitial;
-    private byte myByte;
-    static private Company company = new Company();
-    private NewsAgency agency;
+
+    // Method
+    public void sayHello(){
+        System.out.println("Hello");
+    }
     public static void main(String[] args){
-        System.out.println("Hello From Java");
+        Person p1 = new Person();
+        p1.sayHello();
     }
 
-
 }
+
+
+
