@@ -1,7 +1,19 @@
-import business.Company;
+package _05192023;
 
 public class Person {
     private String middleName = "Noman";
+    public static int[] numbers = intNum();
+
+    public static int[] intNum(){
+        int[] nums = new int[5];
+        nums[0] = 3;
+        nums[1] = 4;
+        nums[2] = 5;
+        nums[3] = 6;
+        nums[4] = 7;
+        return nums;
+    }
+
 
     public static void main(String[] args){
         Person p1 = new Person();
