@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1963750-76eb-4829-bc56-5f12418b0251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/NewsAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/business/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/business/FactoryWorker.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1963750-76eb-4829-bc56-5f12418b0251" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
