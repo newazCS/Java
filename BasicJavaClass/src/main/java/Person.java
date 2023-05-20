@@ -9,7 +9,17 @@ public class Person {
         p1.hiWithName("Newaz");
         System.out.println(p1.getMiddleInitial());
         System.out.println(p1.add(5,20));
+
+        p1.test2("iPhone","Samsung");
     }
+
+    public void test(String [] words){
+        // do something clever with words
+    }
+    //Using VerArgs
+     public void test2(String...words){
+         // do something clever with words
+     }
 
     public int add (int num, int num2){
         return num + num2;
