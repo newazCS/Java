@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1963750-76eb-4829-bc56-5f12418b0251" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05202023/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/packagesTest/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/packagesTest/ClassC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ex/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ex/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ex/NeutrinoMath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ex/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/textLearning/LearnStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/textLearning/UpperLowerCase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/src/main/java/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05192023/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/src/main/java/NewsAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05192023/NewsAgency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05192023/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/src/main/java/business/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05192023/business/Company.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/src/main/java/business/FactoryWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJavaClass/src/main/java/_05192023/business/FactoryWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/target/classes/ArrayDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/target/classes/NewsAgency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/target/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/target/classes/business/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJavaClass/target/classes/business/FactoryWorker.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,20 +53,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassA">
-    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05192023.ArrayDemo" />
-      <module name="BasicJavaClass" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05202023.ClassA" />
+  <component name="RunManager" selected="Application.UpperLowerCase">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.Car" />
       <module name="BasicJavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_05202023.*" />
+          <option name="PATTERN" value="ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,18 +67,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05192023.Person" />
+    <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.Customer" />
       <module name="BasicJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textLearning.LearnStrings" />
+      <module name="BasicJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="textLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NeutrinoMath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex.NeutrinoMath" />
+      <module name="BasicJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="textLearning.UpperLowerCase" />
+      <module name="BasicJavaClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="textLearning.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassA" />
-        <item itemvalue="Application.Person" />
-        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.UpperLowerCase" />
+        <item itemvalue="Application.LearnStrings" />
+        <item itemvalue="Application.Customer" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.NeutrinoMath" />
       </list>
     </recent_temporary>
   </component>
